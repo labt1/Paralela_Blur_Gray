@@ -1,1 +1,1 @@
-#RGB a Escala de grises
+# RGB a Escala de grises

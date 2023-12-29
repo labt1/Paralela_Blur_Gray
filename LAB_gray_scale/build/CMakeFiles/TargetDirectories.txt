@@ -1,0 +1,3 @@
+/home/cuda/data/Paralela/LAB_gray_scale/build/CMakeFiles/RGB_TO_GRAY.dir
+/home/cuda/data/Paralela/LAB_gray_scale/build/CMakeFiles/edit_cache.dir
+/home/cuda/data/Paralela/LAB_gray_scale/build/CMakeFiles/rebuild_cache.dir
